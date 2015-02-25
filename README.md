@@ -1,4 +1,4 @@
-Treehouse-Project-1
+#My Photography Portfolio 
 ===================
 Creating a photography portfolio 
 
